@@ -20,5 +20,5 @@ spec:
       - name: regcred
       containers:
       - name: hello-app1
-        image: vidising/hello-app:v2
+        image: vidising/hello-app:v3
         imagePullPolicy: Always
